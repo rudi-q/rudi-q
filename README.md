@@ -1,19 +1,34 @@
-<h1 align="center">Hi 👋, I'm Rudi K</h1>
-<h3 align="center">An Evolving Data Storyteller</h3>
+<h1 align="center"> Welcome to my GitHub 🌟</h1>
+<h3 align="center">I Help You Grow w/ Data Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudi-q&label=Profile%20views&color=0e75b6&style=flat" alt="rudi-q" /> </p>
 
-- 🔭 I’m currently working on **myself**
+I'm Rudi, currently based in Budapest, Hungary, and open to relocation.
 
-- 🌱 I’m currently learning **Scala, Dockets, Machine Learning**
+I'm a seasoned Data Storyteller and Full Stack Developer with over a decade of self-learned programming experience, driven by a passion for decoding data and crafting actionable insights that drive business success.
 
-- 👯 I’m looking to collaborate on **an inspiring project**
+Education:
+I'm pursuing a Bachelor of Science with Honors in Computer Science, specializing in Data Analytics, from Asia Pacific University, Malaysia, and De Montfort University, UK (Expected May 2025).
 
-- 🤝 I’m looking for help with **networking**
+Here's a snapshot of what I bring to the table:
 
-- 💬 Ask me about **Data Intelligence**
+Hands-on Experience: Led projects such as a Data Science job simulation for PwC Switzerland and British Airways, where I crafted Power BI visualizations for call center data and conducted sentiment analysis and predictive modeling, resulting in actionable insights for improved performance.
 
-- 📫 How to reach me **rudi@cristalyse.com**
+Project Highlights: Delivered a multi-dimensional model for a data warehouse and designed dynamic visualization dashboards for Power BI, resulting in a 20% increase in operational efficiency for internal teams.
+
+Leadership & Collaboration: As President of the Artificial Intelligence Club at APU, orchestrated successful events with an average attendance of 180 attendees per event and boosted social media engagement by 370%, fostering a collaborative environment for learning and innovation in AI.
+
+Technical Proficiency: Proficient in MySQL, Python, R, BigQuery, Power BI, Excel, and more, with certifications in Google Business Intelligence, Microsoft Power BI Data Analyst, and others.
+
+Let's Connect!
+I'm passionate about leveraging data to drive positive change and eager to explore opportunities to collaborate and contribute to impactful projects. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rudi-k) or email at [rudi@cristalyse.com](mailto:rudi@cristalyse.com).
+
+ * 📝 Resume: [<b>View My Resume</b>](https://www.dropbox.com/scl/fi/zpt2fidvqq8n5d07ad05s/Resume_Rudi_K_04-06-2024.pdf?rlkey=koqwf6eballbqixx5wz0e4n2q)  
+ * 🌐 You can follow me on [LinkedIn](https://www.linkedin.com/in/rudi-k)
+ * 📫 Email me at **rudi@cristalyse.com**
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
