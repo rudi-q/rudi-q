@@ -175,7 +175,7 @@ Product Mgmt   ████████████████████ 90% 
 
 ## 📊 GitHub Activity
 
-<!--
+
 Note: Add these if you want live stats (they'll update automatically):
 
 ![Rudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudi-q&show_icons=true&theme=dark)
@@ -183,7 +183,7 @@ Note: Add these if you want live stats (they'll update automatically):
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudi-q&layout=compact&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudi-q&theme=dark)
--->
+
 
 **Recent Focus Areas:**
 - 🎯 Privacy-first architecture patterns
