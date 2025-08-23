@@ -10,7 +10,7 @@ I build things that solve real problems with clean code and thoughtful UX. Curre
 
 ## 🛠️ What I'm Building
 
-### 📧 **[DoublOne](https://doubl.one)** – Email that feels like 2024
+### 📧 **[DoublOne](https://doubl.one)** – Email that feels like 2025
 *Privacy-first email client with chat-style UX*
 
 - **The Problem:** Email UX hasn't evolved since the 90s. Users spend 2.5 hours daily drowning in cluttered inboxes.
