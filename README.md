@@ -26,7 +26,7 @@ I build things that solve real problems with clean code and thoughtful UX. Curre
 - **Impact:** 350% faster AI workflows, 94% context retention across model switches.
 - **Tech:** React, LLM APIs, context management algorithms, real-time state sync
 
-### 💊 **Pillow Health** – On-device ML for health predictions
+### 🌸 **[PinkRain](https://rain.pink)** – On-device ML for health predictions
 *Privacy-first health journaling with AI*
 
 - **The Problem:** Health apps send sensitive data to remote servers. Users want predictions, not privacy violations.
@@ -230,6 +230,7 @@ I'm always interested in connecting with fellow builders, especially around:
 📱 **DoublOne:** [doubl.one](https://doubl.one)  
 🧠 **CaraML:** [caraml.app](https://caraml.app)  
 🚦 **Tuesday Rush:** [tuesdae.games](https://tuesdae.games)  
+🌸 **PinkRain:** [rain.pink](https://rain.pink)  
 📊 **Cristalyse:** [pub.dev/packages/cristalyse](https://pub.dev/packages/cristalyse)
 
 ### **Writing & Community**
