@@ -8,7 +8,7 @@ I build things that solve real problems with clean code and thoughtful UX. Curre
 
 ---
 
-## 🛠️ What I'm Building
+## 🌱 What I'm Building
 
 ### 📧 **[DoublOne](https://doubl.one)** – Email that feels like 2025
 *Privacy-first email client with chat-style UX*
@@ -33,6 +33,16 @@ I build things that solve real problems with clean code and thoughtful UX. Curre
 - **The Solution:** On-device TensorFlow Lite inference, synthetic data training, HIPAA-compliant by design.
 - **Impact:** 99% micro-F1 accuracy, <5ms inference time, 95% week-1 user retention.
 - **Tech:** Flutter, TensorFlow Lite, Bi-LSTM networks, synthetic data generation
+
+### ✏️ **[LeedPDF](https://leed.my)** – PDF annotation without compromise
+*Turn any PDF into an infinite drawing canvas*
+
+- **The Problem:** PDF annotation tools force you to upload sensitive documents to someone else's servers.
+- **The Solution:** Browser-based annotation with pen-like precision. Zero uploads, total privacy.
+- **Impact:** Open-source tool used globally, natural drawing feel, works on any device.
+- **Tech:** Web technologies, canvas API, file system access API, privacy-by-design architecture
+
+**🔗 Try it:** [try.leed.pdf](https://try.leed.pdf)
 
 ### 🚦 **[Tuesday Rush](https://tuesdae.games)** – Traffic simulation game
 *Control the chaos, prevent the crashes*
@@ -91,6 +101,8 @@ I build things that solve real problems with clean code and thoughtful UX. Curre
 ### **Frontend Engineering**
 ```
 Flutter/Dart    ████████████████████ 95%  (5+ years, production apps)
+SvelteKit       ████████████████░░░░ 85%  (Performance-first web apps)
+Astro           ███████████████░░░░░ 80%  (Content-focused sites)
 React/Next.js   ████████████████░░░░ 85%  (Modern web development)
 Three.js        ████████████████░░░░ 80%  (3D web experiences)
 HTML/CSS        ████████████████████ 95%  (Responsive, accessible)
@@ -229,8 +241,9 @@ I'm always interested in connecting with fellow builders, especially around:
 ### **Projects & Products**
 📱 **DoublOne:** [doubl.one](https://doubl.one)  
 🧠 **CaraML:** [caraml.app](https://caraml.app)  
-🚦 **Tuesday Rush:** [tuesdae.games](https://tuesdae.games)  
 🌸 **PinkRain:** [rain.pink](https://rain.pink)  
+✏️ **LeedPDF:** [leed.my](https://leed.my)  
+🚦 **Tuesday Rush:** [tuesdae.games](https://tuesdae.games)  
 📊 **Cristalyse:** [pub.dev/packages/cristalyse](https://pub.dev/packages/cristalyse)
 
 ### **Writing & Community**
