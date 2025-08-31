@@ -37,6 +37,23 @@ I build things that solve real problems with clean code and thoughtful UX. Curre
 ### ✏️ **[LeedPDF](https://leed.my)** – PDF annotation without compromise
 *Turn any PDF into an infinite drawing canvas*
 
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-87A96B.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![Commercial License](https://img.shields.io/badge/Commercial%20License-Available-87A96B.svg)](https://buy.polar.sh/polar_cl_tPmQ3d72uYwrYvzzIUM4R7cku7hg2kmEQqruI1its5c)
+[![Free for Personal Use on Web](https://img.shields.io/badge/Free-Web%20App-87A96B.svg)](#web-app-agpl)
+[![GitHub Stars](https://img.shields.io/github/stars/rudi-q/leed_pdf_viewer?color=87A96B&style=flat&logo=github)](https://github.com/rudi-q/leed_pdf_viewer/stargazers)
+[![Downloads](https://img.shields.io/github/downloads/rudi-q/leed_pdf_viewer/total?label=Downloads&logo=github&color=87A96B)](https://github.com/rudi-q/leed_pdf_viewer/releases)
+[![WCAG AAA Compliant](https://img.shields.io/badge/WCAG%20AAA-Compliant-87A96B?style=flat&logo=accessibilityalt&logoColor=white)](https://www.w3.org/WAI/WCAG2AAA-Conformance)
+
+[![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)](https://kit.svelte.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![PDF.js](https://img.shields.io/badge/PDF.js-000000?style=flat&logo=mozilla&logoColor=white)](https://mozilla.github.io/pdf.js/)
+[![Brave Search API](https://img.shields.io/badge/Brave%20Search-FF6B35?style=flat&logo=brave&logoColor=white)](https://api.search.brave.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black)](https://tauri.app/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![CodeRabbit](https://img.shields.io/badge/CodeRabbit-AI-FF6B9D?style=flat&logo=rabbitmq&logoColor=white)](https://coderabbit.ai/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
+
 - **The Problem:** PDF annotation tools force you to upload sensitive documents to someone else's servers.
 - **The Solution:** Browser-based annotation with pen-like precision. Zero uploads, total privacy.
 - **Impact:** Open-source tool used globally, natural drawing feel, works on any device.
@@ -65,12 +82,13 @@ I build things that solve real problems with clean code and thoughtful UX. Curre
 ### 📊 **[Cristalyse](https://pub.dev/packages/cristalyse)** – Flutter data visualization
 *Grammar of graphics for Flutter*
 
-[![pub package](https://img.shields.io/pub/v/cristalyse.svg)](https://pub.dev/packages/cristalyse)
-[![pub points](https://img.shields.io/pub/points/cristalyse)](https://pub.dev/packages/cristalyse/score)
-[![likes](https://img.shields.io/pub/likes/cristalyse)](https://pub.dev/packages/cristalyse/score)
-[![Platform](https://img.shields.io/badge/platform-android%20%7C%20ios%20%7C%20web%20%7C%20windows%20%7C%20macos%20%7C%20linux-blue)](https://flutter.dev/)
-[![Flutter support](https://img.shields.io/badge/Flutter-1.17%2B-blue)](https://flutter.dev/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![pub package](https://img.shields.io/pub/v/cristalyse.svg?color=2cacbf&labelColor=145261)](https://pub.dev/packages/cristalyse)
+[![pub points](https://img.shields.io/pub/points/cristalyse?color=2cacbf&labelColor=145261)](https://pub.dev/packages/cristalyse/score)
+[![likes](https://img.shields.io/pub/likes/cristalyse?color=2cacbf&labelColor=145261)](https://pub.dev/packages/cristalyse/score)
+[![Platform](https://img.shields.io/badge/platform-android%20%7C%20ios%20%7C%20web%20%7C%20windows%20%7C%20macos%20%7C%20linux-2cacbf?labelColor=145261)](https://flutter.dev/)
+[![Flutter support](https://img.shields.io/badge/Flutter-1.17%2B-2cacbf?labelColor=145261)](https://flutter.dev/)
+[![Dart support](https://img.shields.io/badge/Dart-2.19.2%2B-2cacbf?labelColor=145261)](https://dart.dev/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-2cacbf.svg?labelColor=145261)](https://opensource.org/licenses/MIT)
 
 - **The Gap:** Flutter lacked a comprehensive, performant data visualization library.
 - **The Solution:** 60fps GPU-accelerated rendering with intuitive grammar of graphics API.
