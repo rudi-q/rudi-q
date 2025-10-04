@@ -1,10 +1,6 @@
 # Hey, I'm Rudi 👋
 
-**Product Engineer building privacy-first tools that people actually want to use.**
-
-I build things that solve real problems with clean code and thoughtful UX. Currently shipping privacy-first products used by people across 15+ countries.
-
-12+ years programming experience, specializing in full-stack development, AI/ML engineering, and product architecture.
+**Product Engineer building privacy-first tools that I actually want to use.**
 
 ---
 
@@ -205,8 +201,6 @@ Product Mgmt   ████████████████████ 90% 
 
 ## 📊 GitHub Activity
 
-
-Note: Add these if you want live stats (they'll update automatically):
 
 ![Rudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudi-q&show_icons=true&theme=dark)
 
