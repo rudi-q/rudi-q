@@ -2,33 +2,23 @@
 
 **Product Engineer building privacy-first tools that I actually want to use.**
 
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rudi-q)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=X)](https://twitter.com/lofifounder)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/lofifounder)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@rudi-k)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@lofifounder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudi-k)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://lofifounder.substack.com)
+[![Peerlist](https://img.shields.io/badge/Peerlist-00AA45?style=flat&logo=peerlist&logoColor=white)](https://peerlist.io/rudik)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat&logo=threedotjs&logoColor=white)](https://rudi.engineer)
+
+</div>
+
 ---
 
 ## 🌱 What I'm Building
-
-### 📧 **[DoublOne](https://doubl.one)** – Email that feels like 2025
-*Privacy-first email client with chat-style UX*
-
-- **The Problem:** Email UX hasn't evolved since the 90s. Users spend 2.5 hours daily drowning in cluttered inboxes.
-- **The Solution:** Chat-style interface with MIME→conversation transformation, sub-50ms performance, zero-knowledge encryption.
-- **Impact:** Growing user base across 15+ countries, 40% faster email triage vs traditional clients.
-- **Tech:** Flutter, Supabase, PostgreSQL, IMAP/OAuth 2.0, end-to-end encryption
-
-### 🧠 **[CaraML](https://caraml.app)** – Multi-LLM interface done right
-*AI assistant with shared memory across models*
-
-- **The Problem:** Using AI effectively means switching between models for different tasks, losing context each time.
-- **The Solution:** Unified interface with context preservation, smart model routing, seamless switching.
-- **Impact:** 350% faster AI workflows, 94% context retention across model switches.
-- **Tech:** React, LLM APIs, context management algorithms, real-time state sync
-
-### 🌸 **[PinkRain](https://rain.pink)** – On-device ML for health predictions
-*Privacy-first health journaling with AI*
-
-- **The Problem:** Health apps send sensitive data to remote servers. Users want predictions, not privacy violations.
-- **The Solution:** On-device TensorFlow Lite inference, synthetic data training, HIPAA-compliant by design.
-- **Impact:** 99% micro-F1 accuracy, <5ms inference time, 95% week-1 user retention.
-- **Tech:** Flutter, TensorFlow Lite, Bi-LSTM networks, synthetic data generation
 
 ### ✏️ **[LeedPDF](https://leed.my)** – PDF annotation without compromise
 *Turn any PDF into an infinite drawing canvas*
@@ -52,28 +42,18 @@
 
 - **The Problem:** PDF annotation tools force you to upload sensitive documents to someone else's servers.
 - **The Solution:** Browser-based annotation with pen-like precision. Zero uploads, total privacy.
-- **Impact:** Open-source tool used globally, natural drawing feel, works on any device.
-- **Tech:** Web technologies, canvas API, file system access API, privacy-by-design architecture
+- **Impact:** 3,000+ monthly active users across 175+ countries, 1,500+ desktop app downloads, 300+ GitHub stars.
+- **Tech:** SvelteKit, Tauri (Rust), Canvas API, client-side processing, privacy-by-design
 
-**🔗 Try it:** [try.leed.pdf](https://try.leed.pdf)
+**🔗 Try it:** [leed.my](https://leed.my)
 
-### 🚦 **[Tuesday Rush](https://tuesdae.games)** – Traffic simulation game
-*Control the chaos, prevent the crashes*
+### 📧 **[DoublOne](https://doubl.one)** – Email that feels like 2025
+*Privacy-first email client with chat-style UX*
 
-<div align="center">
-  
-[![Tuesday Rush Gameplay](https://img.shields.io/badge/🎮_Play_Now-Tuesday_Rush-red?style=for-the-badge&logo=flutter)](https://tuesdae.games)
-
-**👆 Click to play the live game 👆**
-
-</div>
-
-<!-- Add a GIF or video here when you have gameplay footage -->
-<!-- ![Tuesday Rush Demo](https://your-domain.com/tuesday-rush-demo.gif) -->
-
-- **The Concept:** You control traffic lights in increasingly complex intersections. Toggle signals, manage flow, prevent accidents.
-- **The Challenge:** Real-time traffic simulation with collision detection, optimized for smooth 60fps gameplay.
-- **Tech:** Flutter, custom physics engine, state management, game logic optimization
+- **The Problem:** Email UX hasn't evolved since the 90s. Users spend 2.5 hours daily drowning in cluttered inboxes.
+- **The Solution:** Transforms messy email threads into clean, chat-like conversations with sub-50ms performance and zero-knowledge encryption.
+- **Impact:** 40% faster email triage vs traditional clients, growing user base across multiple countries.
+- **Tech:** Flutter, Supabase, PostgreSQL, IMAP/OAuth 2.0, end-to-end encryption
 
 ### 📊 **[Cristalyse](https://pub.dev/packages/cristalyse)** – Flutter data visualization
 *Grammar of graphics for Flutter*
@@ -88,8 +68,55 @@
 
 - **The Gap:** Flutter lacked a comprehensive, performant data visualization library.
 - **The Solution:** 60fps GPU-accelerated rendering with intuitive grammar of graphics API.
-- **Adoption:** Growing community adoption with positive feedback and contributions.
+- **Adoption:** 1,000+ monthly downloads with growing community adoption.
 - **Tech:** Flutter, CustomPainter, GPU optimization, mathematical transformations
+
+### 🌸 **[PinkRain](https://rain.pink)** – On-device ML for health predictions
+*Privacy-first health journaling with AI*
+
+- **The Problem:** Health apps send sensitive data to remote servers. Users want predictions, not privacy violations.
+- **The Solution:** On-device TensorFlow Lite inference, synthetic data training, HIPAA-compliant by design.
+- **Impact:** 99% micro-F1 accuracy, <5ms inference time. Users stick around because predictions actually help.
+- **Tech:** Flutter, TensorFlow Lite, Bi-LSTM networks, synthetic data generation
+
+### 🔖 **[Golden Day](https://mygolden.day)** – Visual bookmarking without the chaos
+*Capture anything with a single keystroke*
+
+- **The Problem:** Bookmarks pile up in folders you'll never revisit. Organizing feels like work.
+- **The Solution:** Visual bookmarking with rich metadata extraction, offline-first storage, keyboard-driven workflows.
+- **Impact:** Offline-first, privacy-focused architecture with local-first storage and visual masonry layout.
+- **Tech:** SvelteKit, Chrome Extension API, client-side processing, metadata extraction
+
+### 🎬 **[Glucose](https://glucose.media)** – Video player that gets out of your way
+*Ultra-lightweight with on-device AI subtitle generation*
+
+- **The Problem:** Video players are bloated with features you don't need. Subtitles require uploading to servers.
+- **The Solution:** Zero UI experience with keyboard-first controls, on-device AI subtitle generation.
+- **Impact:** Ultra-lightweight desktop app with native performance and cinematic viewing modes.
+- **Tech:** Rust, Tauri, Svelte, on-device AI processing
+
+### 🧠 **[CaraML](https://caraml.app)** – Multi-LLM interface done right
+*AI assistant with shared memory across models*
+
+- **The Problem:** Using AI effectively means switching between models for different tasks, losing context each time.
+- **The Solution:** Unified interface with context preservation, smart model routing, seamless switching.
+- **Impact:** 350% faster AI workflows, 94% context retention across model switches.
+- **Tech:** React, LLM APIs, context management algorithms, real-time state sync
+
+### 🚦 **[Tuesdae Rush](https://tuesdae.games)** – Traffic simulation game
+*Control the chaos, prevent the crashes*
+
+<div align="center">
+  
+[![Tuesdae Rush Gameplay](https://img.shields.io/badge/🎮_Play_Now-Tuesdae_Rush-red?style=for-the-badge&logo=flutter)](https://tuesdae.games)
+
+**👆 Click to play the live game 👆**
+
+</div>
+
+- **The Concept:** You control traffic lights in increasingly complex intersections. Toggle signals, manage flow, prevent accidents.
+- **The Challenge:** Real-time traffic simulation with collision detection, optimized for smooth 60fps gameplay.
+- **Tech:** Flutter, custom physics engine, state management, game logic optimization
 
 ---
 
@@ -105,56 +132,51 @@
 
 </div>
 
-<!-- Add a GIF or screenshot of your 3D portfolio here -->
-<!-- ![3D Portfolio Demo](https://your-domain.com/portfolio-demo.gif) -->
-
 ---
 
-## 💻 Tech Stack & Expertise
+## 💻 Tech Stack & What Makes Me Different
 
-### **Frontend Engineering**
-```
-Flutter/Dart    ████████████████████ 95%  (5+ years, production apps)
-SvelteKit       ████████████████░░░░ 85%  (Performance-first web apps)
-Astro           ███████████████░░░░░ 80%  (Content-focused sites)
-React/Next.js   ████████████████░░░░ 85%  (Modern web development)
-Three.js        ████████████████░░░░ 80%  (3D web experiences)
-HTML/CSS        ████████████████████ 95%  (Responsive, accessible)
-```
+### **Languages I Ship With**
+**Dart/Flutter** • **TypeScript** • **Python** • **Rust** • **JavaScript**
 
-### **Backend & Infrastructure**
-```
-Node.js         ████████████████████ 90%  (API development, microservices)
-Python          ████████████████░░░░ 85%  (ML, data processing, Flask/FastAPI)
-PostgreSQL      ████████████████████ 90%  (Database design, optimization)
-Supabase        ████████████████████ 95%  (Real-time apps, auth, storage)
-Google Cloud    ████████████████░░░░ 80%  (Deployment, scaling, monitoring)
-```
+I've been writing Dart for 5+ years and have shipped production apps with millions of interactions. Python and TypeScript are my go-to for rapid prototyping and backend work. Rust is newer but I've shipped two real products with Tauri.
 
-### **AI/ML Engineering**
-```
-TensorFlow      ████████████████░░░░ 80%  (Model training, optimization)
-TF Lite         ████████████████████ 90%  (On-device inference, mobile ML)
-LLM Integration ████████████████████ 95%  (API orchestration, context mgmt)
-Synthetic Data  ████████████████████ 90%  (Privacy-compliant training data)
-```
+### **How I Build Products**
+**Frontend:** Flutter (mobile), SvelteKit (web), React, Astro, Chrome Extensions  
+**Backend:** Node.js, Python (Flask/FastAPI), Supabase, PostgreSQL  
+**Desktop:** Tauri (Rust), cross-platform native apps  
+**Systems:** Canvas API, WebGL, custom rendering engines
 
-### **Product & Design**
-```
-System Design  ████████████████████ 90%  (Scalable architectures)
-UX Research    ████████████████░░░░ 85%  (User testing, analytics)
-Figma          ████████████████░░░░ 80%  (Prototyping, design systems)
-Product Mgmt   ████████████████████ 90%  (Roadmaps, user stories, metrics)
-```
+### **Privacy & Performance Engineering**
+This is what sets my work apart. I don't just build features, I build products people can trust:
+- **Zero-knowledge encryption** and end-to-end security
+- **On-device ML inference** with TensorFlow Lite (no data ever leaves the device)
+- **Sub-50ms response times** through aggressive optimization
+- **Privacy-first architecture** from day one, not bolted on later
+- **Offline-first design** so your data stays yours
+
+### **Data & ML**
+**Machine Learning:** TensorFlow, TensorFlow Lite, on-device inference, synthetic data generation  
+**Data Analytics:** Statistical analysis, predictive modeling, A/B testing, user behavior analysis  
+**Business Intelligence:** Market analysis (15%+ product launch success improvement), data-driven decisions
+
+My CS degree specialized in Data Analytics, and I apply it to actual product decisions, not just dashboards.
+
+### **What I'm Known For**
+- Building products that respect user privacy while delivering ML-powered features
+- Performance optimization (60fps on mobile, <50ms server response)
+- Cross-platform development (one codebase, native feel everywhere)
+- Shipping fast without breaking things
 
 ---
 
 ## 📈 Impact & Metrics
 
 **🌍 Global Reach**
-- Products used across **15+ countries**
-- **95% week-1 retention** on health applications
-- **350% improvement** in AI workflow efficiency
+- Products used across **175+ countries**
+- **3,000+ monthly active users** (LeedPDF)
+- **1,500+ desktop app downloads** (LeedPDF)
+- **1,000+ monthly downloads** (Cristalyse package)
 
 **⚡ Performance Achievements**
 - **Sub-50ms** email processing (15x faster than Gmail)
@@ -167,7 +189,7 @@ Product Mgmt   ████████████████████ 90% 
 - **370% increase** in community engagement
 
 **📦 Open Source Contributions**
-- Published packages with growing adoption
+- **450+ GitHub stars** across projects
 - Active contributor to Flutter ecosystem
 - Technical documentation and tutorials
 
@@ -201,14 +223,6 @@ Product Mgmt   ████████████████████ 90% 
 
 ## 📊 GitHub Activity
 
-
-![Rudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudi-q&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudi-q&layout=compact&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudi-q&theme=dark)
-
-
 **Recent Focus Areas:**
 - 🎯 Privacy-first architecture patterns
 - 🧠 AI/ML model optimization for edge devices  
@@ -219,19 +233,19 @@ Product Mgmt   ████████████████████ 90% 
 
 ## 💡 Philosophy & Approach
 
-> *"Good products solve real problems. Great products solve them so well you forget the problem existed."*
+> *"The products I build come from personal frustration. If I'm annoyed by something, chances are thousands of other people are too."*
 
-**My Product Engineering Principles:**
-- **Privacy by Design** – User data should stay with the user
-- **Performance Matters** – Every millisecond counts in user experience
-- **Simplicity Wins** – Complex problems need simple, elegant solutions
-- **Ship & Iterate** – Perfect is the enemy of shipped
+**My approach:**
+- **Privacy isn't negotiable**: Your data belongs to you, not on someone's server
+- **Speed creates trust**: When software responds instantly, people actually enjoy using it
+- **Simple beats clever**: The best solution is the one people understand immediately
+- **Done beats perfect**: Real feedback from real users beats endless internal debates
 
-**Development Values:**
-- Write code like the next person reading it is a serial killer who knows where you live
-- Test in production (but test everywhere else first)
-- Documentation is love letters to your future self
-- If it's not accessible, it's not finished
+**How I build:**
+- I write code that's easy to understand and maintain, because six months from now, I'll be that confused person trying to figure out what I was thinking
+- I believe in thorough testing at every stage. Shipping fast doesn't mean shipping recklessly
+- Good documentation isn't extra work, it's how you help future contributors (including yourself) hit the ground running
+- Accessibility isn't a feature you add later. If it's hard to use for someone, it's not done yet
 
 ---
 
@@ -251,12 +265,14 @@ I'm always interested in connecting with fellow builders, especially around:
 🐦 **Twitter:** [@lofifounder](https://twitter.com/lofifounder)  
 
 ### **Projects & Products**
-📱 **DoublOne:** [doubl.one](https://doubl.one)  
-🧠 **CaraML:** [caraml.app](https://caraml.app)  
-🌸 **PinkRain:** [rain.pink](https://rain.pink)  
 ✏️ **LeedPDF:** [leed.my](https://leed.my)  
-🚦 **Tuesday Rush:** [tuesdae.games](https://tuesdae.games)  
-📊 **Cristalyse:** [pub.dev/packages/cristalyse](https://pub.dev/packages/cristalyse)
+📱 **DoublOne:** [doubl.one](https://doubl.one)  
+📊 **Cristalyse:** [pub.dev/packages/cristalyse](https://pub.dev/packages/cristalyse)  
+🌸 **PinkRain:** [rain.pink](https://rain.pink)  
+🔖 **Golden Day:** [mygolden.day](https://mygolden.day)  
+🎬 **Glucose:** [glucose.media](https://glucose.media)  
+🧠 **CaraML:** [caraml.app](https://caraml.app)  
+🚦 **Tuesdae Rush:** [tuesdae.games](https://tuesdae.games)
 
 ### **Writing & Community**
 ✍️ **Hashnode:** [hashnode.com/@lofifounder](https://hashnode.com/@lofifounder)  
